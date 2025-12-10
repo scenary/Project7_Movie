@@ -1,5 +1,5 @@
 ## 웹서비스
-https://kyunggwan.github.io/Project7_Movie  
+https://scenary.github.io/Project7_Movie  
 
 ### 0.리액트 왜 쓰는가
 프론트앤드 라이브러리로 DOM관리와 상태 변화 관리 최소화  
